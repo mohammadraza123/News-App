@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(to right, #1ebfb9, #e8e9eb, #6060a2);
+
+}
+
+.navbar-brand {
+    font-size: 50px !important;
+    color: rgb(77, 77, 94) !important;
+    font-weight: 1000 !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}
+
+.nav-link {
+    margin-left: 100px !important;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+}
+
+.collapse {
+    padding: 30px !important;
+}
+
+.container-fluid {
+    background: linear-gradient(to right, #039d97, #e8e9eb, #25257f);
+
+    box-shadow: 0px 1px 3px 1px !important;
+}
+
+.col-sm-12 {
+    background-color: transparent !important;
+}
